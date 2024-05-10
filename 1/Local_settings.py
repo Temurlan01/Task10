@@ -1,2 +1,2 @@
-SECRET_TOKEN = "some-secret-value"
+name_item = "some-secret-value"
 is_active = True
